@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+
+  
+ #one
+ {
+ margin-top:10px;
+ color: #000080;
+font-weight: bold;
+font-family: sans-serif; 
+font-style: oblique;
+
+ 
+ }
+
+.hero h1:hover
+{
+	color: #db23f5;
+	background-color: lime;
+	
+	
+}
+
+ .hero{
+background-image:url("images/book.jpg");
+width: 100%;
+height: 431px;
+
+
+ }
+ 
+ .all
+ {
+ background-color: red;
+ }
+ 
+ .info
+ {
+ 
+ margin-top:40px;
+ border: 2px solid black;
+ padding: 10px;
+ color:blue;
+ background-color: silver;
+ }
+ 
+ 
+ 
+ 
+ 
+ .mission
+ {
+ float: left;
+  color: olive;
+ 
+ }
+ 
+ 
+ 

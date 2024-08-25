@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+
+.mb-2 input{
+	
+	width: 270px;
+	border-color: navy;
+}
+
+
+
+label{
+	color: navy;
+}
+
+.btn{
+	margin-left: 100px;
+}
+
+
+.DoctorSidebar2{
+	width:700px;
+	height:420px;
+	margin-left:200px;
+	margin-top:10px;
+	border: 5px solid black;
+	padding-left: 30px;
+	background-color:silver;
+}
+
+.DoctorSidebar2 input{
+	
+	width: 270px;
+	border-color: navy;
+	margin-bottom: 10px;
+}
+.DoctorSidebar2 button{
+	margin-top:5px;
+	margin-left: 270px;
+}
+

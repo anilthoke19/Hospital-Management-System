@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+.mb-2 input{
+	
+	width: 270px;
+	border-color: navy;
+}
+
+.sidebar{
+	width:400px;
+	height:480px;
+	margin-left: 300px;
+	margin-top:10px;
+	border: 5px solid black;
+	padding-left: 30px;
+	background-color:silver;
+	
+}
+
+
+
+label{
+	color: navy;
+}
+
+.btn{
+	margin-left: 100px;
+}
+
+
+.DoctorSidebar{
+	width:700px;
+	height:480px;
+	margin-left: 230px;
+	margin-top:10px;
+	border: 3px solid black;
+	padding-left: 30px;
+	
+ background-color:green;	
+	
+}
+
+.DoctorSidebar input{
+	
+	width: 270px;
+	border-color: navy;
+	margin-bottom: 10px;
+}
+.DoctorSidebar button{
+	margin-top:5px;
+	margin-left: 270px;
+}
+
+
+
